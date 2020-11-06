@@ -5,6 +5,8 @@
 #include <QObject>
 #include <QMessageBox>
 
+#include <stdint.h>
+
 QT_BEGIN_NAMESPACE
 class QFont;
 class QLineEdit;
